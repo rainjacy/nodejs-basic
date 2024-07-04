@@ -11,8 +11,5 @@
   "description": "",
   "devDependencies": {
     "@types/node": "^20.14.8"
-  },
-  "dependencies": {
-    "express": "^4.19.2"
   }
 }
